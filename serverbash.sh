@@ -1,3 +1,2 @@
 #bash
-
-#bash script fil
+#bash script fi
