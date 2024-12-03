@@ -1,2 +1,2 @@
-sh
+h
 bash script fi
