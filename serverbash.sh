@@ -1,1 +1,1 @@
-hbash script 
+hbash scrip
