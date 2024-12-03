@@ -1,1 +1,1 @@
-hbash scr
+hbash sc
